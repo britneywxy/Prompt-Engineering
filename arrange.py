@@ -210,6 +210,7 @@ def arrange(input_text, routine, day_start, day_end, gmail):
         json.dump(events, file, indent=4)
 
 
+# For test purposes
 if __name__ == '__main__':
 
     ## User settings
