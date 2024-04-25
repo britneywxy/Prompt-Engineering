@@ -217,7 +217,7 @@ if __name__ == '__main__':
     routine = [['Mini Course', '2024-04-22T09:30:00-04:00', '2024-04-22T10:50:00-04:00'], ['Semester Course', '2024-04-22T11:00:00-04:00', '2024-04-22T12:20:00-04:00']]
     day_start = '08:30'
     day_end = '23:00'
-    gmail = "fangzhoy@andrew.cmu.edu"
+    gmail = ""
     day_start = datetime.time(datetime.strptime(day_start, '%H:%M'))
     day_end = datetime.time(datetime.strptime(day_end, '%H:%M'))
 
